@@ -1,0 +1,4 @@
+data/*
+convolution.ipynb
+LeNet5_pytorch.ipynb
+max_pooling.ipynb
